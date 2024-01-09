@@ -1,7 +1,5 @@
 # Image Steganography using LSB
 
-![Steganography](images/steganography.jpg)
-
 This desktop application allows you to hide and extract data within images using Image Steganography. It provides a user-friendly interface for selecting cover images, secret images, setting AES keys, and performing the steganography operations.
 
 ## Features
@@ -85,4 +83,8 @@ For support, email vedsmalve@yahoo.com
 
 Affiliated With
 
-    Savitribai Phule Pune University (SPPU)   
+    Savitribai Phule Pune University (SPPU) 
+
+## Sponsored by
+
+VAnalytics
