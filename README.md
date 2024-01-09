@@ -1,1 +1,1 @@
-# Image_Steganography_using_LSB
+# Image Steganography using Least Significant Bit 
