@@ -1,5 +1,7 @@
 # Image Steganography using LSB
 
+![Steganography](https://www.wattlecorp.com/wp-content/uploads/2020/10/Top-3-Steganography-Tools.jpg)
+
 This desktop application allows you to hide and extract data within images using Image Steganography. It provides a user-friendly interface for selecting cover images, secret images, setting AES keys, and performing the steganography operations.
 
 ## Features
