@@ -1,2 +1,4 @@
-Pillow==8.4.0
+opencv-python-headless==4.5.3
+Pillow==8.2.0
 cryptography==35.0.0
+tk==0.1.0
