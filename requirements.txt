@@ -6,3 +6,4 @@ stegano
 BitArray
 scikit-image
 numpy
+customtkinter
