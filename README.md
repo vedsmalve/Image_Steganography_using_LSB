@@ -7,7 +7,7 @@ This desktop application allows you to hide and extract an image within an image
 ## Features
 
 - Two tabs: "Hide Data" and "Extract Data"
-- Upload cover image and secret image
+- Upload cover image and secret image (Cover Image should be larger than secret image for better quality of secret image at the time of extraction)
 - Set AES 256-bit password for encryption
 - Perform image steganography using the Least Significant Bit (LSB) algorithm
 - Save the steganographic result wherever you want
@@ -43,7 +43,7 @@ To Hide Data:
     
 1. Open the application.
 2. Navigate to the "Hide Data" tab.
-3. Select a cover image and a secret image.
+3. Select a cover image and a secret image (larger cover image and smaller secret image in size and pixels also).
 4. Set a 16-character AES key.
 5. Click the "Hide Data" button.
 6. Image will be saved at the location where your main.py is.
@@ -81,11 +81,7 @@ For support, email vedsmalve@yahoo.com
 
 ## Associated With
 
-    Matoshri College of Engineering & Research Centre, Nashik (MCOERC)
-
-Affiliated With
-
-    Savitribai Phule Pune University (SPPU) 
+    Savitribai Phule Pune University (SPPU)
 
 ## Sponsored by
 
