@@ -64,13 +64,15 @@ This project is licensed under the MIT License - see the [LICENSE](https://choos
 
 ## Authors
 
-- Ved Malve [GitHub](https://www.github.com/vedsmalve) | [LinkedIn](https://www.linkedin.com/in/vedsmalve/)
+- Ms. Shilpa Adke
 
-- Aditya Sonar [GitHub](https://www.github.com/AdityaaSonar24) | [LinkedIn](https://www.linkedin.com/in/aditya-sonar-03afd/)
+- Mr. Ved Malve [GitHub](https://www.github.com/vedsmalve) | [LinkedIn](https://www.linkedin.com/in/vedsmalve/)
 
-- Shashikant Kandekar [GitHub](https://www.github.com/Shashikantkandekar) | [LinkedIn](https://www.linkedin.com/in/shashikantkandekar/)
+- Mr. Aditya Sonar [GitHub](https://www.github.com/AdityaaSonar24) | [LinkedIn](https://www.linkedin.com/in/aditya-sonar-03afd/)
 
-- Samadhan Kardile [GitHub](https://www.github.com/samadhankardile17) | [LinkedIn](https://www.linkedin.com/in/samadhan-kardile-5bb28526b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Mr. Shashikant Kandekar [GitHub](https://www.github.com/Shashikantkandekar) | [LinkedIn](https://www.linkedin.com/in/shashikantkandekar/)
+
+- Mr. Samadhan Kardile [GitHub](https://www.github.com/samadhankardile17) | [LinkedIn](https://www.linkedin.com/in/samadhan-kardile-5bb28526b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 
@@ -85,4 +87,4 @@ For support, email vedsmalve@yahoo.com
 
 ## Sponsored by
 
-VAnalytics
+VAnalytics Pvt. Ltd.  (Saurabh Palde Sir)
