@@ -2,15 +2,15 @@
 
 ![Steganography](https://www.wattlecorp.com/wp-content/uploads/2020/10/Top-3-Steganography-Tools.jpg)
 
-This desktop application allows you to hide and extract data within images using Image Steganography. It provides a user-friendly interface for selecting cover images, secret images, setting AES keys, and performing the steganography operations.
+This desktop application allows you to hide and extract an image within an image using Image Steganography. It provides a user-friendly interface for selecting cover images, secret images, setting AES keys, and performing the steganography operations.
 
 ## Features
 
 - Two tabs: "Hide Data" and "Extract Data"
 - Upload cover image and secret image
-- Set AES 128-bit password for encryption
+- Set AES 256-bit password for encryption
 - Perform image steganography using the Least Significant Bit (LSB) algorithm
-- Save the steganographic result
+- Save the steganographic result wherever you want
 - Extract hidden data from stego images
 
 ## Getting Started
@@ -46,7 +46,7 @@ To Hide Data:
 3. Select a cover image and a secret image.
 4. Set a 16-character AES key.
 5. Click the "Hide Data" button.
-6. Save the stego image at the prompted location
+6. Image will be saved at the location where your main.py is.
 
     
 To Extract Data:
@@ -56,7 +56,7 @@ To Extract Data:
 3. Enter the same AES key used for hiding.
 4. Click the "Extract Data" button.
 
-        Note: "The extracted image will be saved in the 'Downloads' folder."
+        Note: "You can save Extracted image wherever you want on system."
 
 ## Licence
 
