@@ -1,0 +1,9 @@
+opencv-python
+Pillow
+cryptography
+tk
+stegano
+BitArray
+scikit-image
+numpy
+customtkinter
