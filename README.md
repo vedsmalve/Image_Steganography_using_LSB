@@ -87,4 +87,5 @@ For support, email vedsmalve@yahoo.com
 
 ## Sponsored by
 
-VAnalytics Pvt. Ltd.  (Saurabh Palde Sir)
+VAnalytics Pvt. Ltd.
+googlef81dbbced3bcc3d0.html
